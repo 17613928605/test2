@@ -1,3 +1,6 @@
-ss = 3
+from selenium import webdriver
 
-print(ss)
+driver = webdriver.Chrome()
+driver.get('https://www.baidu.com')
+
+
