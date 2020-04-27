@@ -22,7 +22,7 @@ try:
     smtp.login('ly0572530@163.com','ly0572530')
 
     smtp.sendmail(sender, receiver, message.as_string())
-    print("邮件发送成功")
+    print("邮件发送成功1111111")
 except smtplib.SMTPException:
     print("Error: 无法发送邮件")
 
