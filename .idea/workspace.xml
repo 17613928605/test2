@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            <state relative-caret-position="405">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -48,7 +48,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="648" />
+    <option name="x" value="278" />
     <option name="y" value="137" />
     <option name="width" value="1390" />
     <option name="height" value="943" />
@@ -131,18 +131,18 @@
       <option name="presentableId" value="Default" />
       <updated>1587893086140</updated>
       <workItem from="1587893087837" duration="2058000" />
-      <workItem from="1587964412250" duration="701000" />
+      <workItem from="1587964412250" duration="3518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2759000" />
+    <option name="totallyTimeSpent" value="5576000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="648" y="137" width="1390" height="943" extended-state="0" />
+    <frame x="278" y="137" width="1390" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25338346" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25338346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -156,7 +156,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2694685" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2694685" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -171,8 +171,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
